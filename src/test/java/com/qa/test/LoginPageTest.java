@@ -8,6 +8,7 @@ public class LoginPageTest {
 	public void loginpagetestM()
 	{
 		System.out.println("Login page test");
+		System.out.println("Login page test 123456788");
 	}
 	
 }
